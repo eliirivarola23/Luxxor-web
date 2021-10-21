@@ -16,7 +16,7 @@
 #
 **Maquetado**
 
-> **CSS Vanilla**
+> **CSS**
 #
 **Participantes**
 
